@@ -50,11 +50,11 @@ Please note that perfomance is bound to the computer where this script runs, so 
 
 ## TODO
 
-Process audio with this script
-More modulation techniques
-DPCM Encoding/Decoding.
-More types of CRC's 
-Translate code to english (is this even a todo?)
+Process audio with this script  
+More modulation techniques  
+DPCM Encoding/Decoding.  
+More types of CRC's   
+Translate code to english (is this even a todo?)  
 
 Loop optimization. At the current state, this code takes some time to perform, and the issue is on the loop of the individual modules. 
-The ideia is to vectorize pretty much every function that i can, so the code performs better.
+The ideia is to vectorize pretty much every function that i can, so the code performs better.  
