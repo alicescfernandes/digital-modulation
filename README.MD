@@ -35,7 +35,7 @@ The ideia on this code is that you transmit a set of data, and on the receptor, 
 When you run the simulation, the code will output some images, one of them is this one:
 ![Lena Output](docs/output1.jpg)
 
-Notice how one of the images as noise in it. The algorithm should be able to either correct some data or just cause even more error.
+Notice how one of the images has noise in it. The algorithm should be able to either correct some data or just cause even more error.
 In the case above, it corrected almost all of the errors, and was able to almost reconstruct all of the image.
 
 ## Usage
