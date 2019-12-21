@@ -29,8 +29,14 @@ Digital communications is everywhere, is in the USB-C port that charges your pho
 There are many more applicable uses of these concepts, but many of them are just "in the background", and just sort of happen.
 
 
-## Example Output
+## Output explanation
+The ideia on this code is that you transmit a set of data, and on the receptor, you should be able to read that data, and correct any bits that were affected by the noise
+
+When you run the simulation, the code will output some images, one of them is this one:
 ![Lena Output](docs/output1.jpg)
+
+Notice how one of the images as noise in it. The algorithm should be able to either correct some data or just cause even more error.
+In the case above, it corrected almost all of the errors, and was able to almost reconstruct all of the image.
 
 ## Usage
 Just run the ``simulate.py`` file
