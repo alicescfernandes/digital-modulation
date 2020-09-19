@@ -2,7 +2,7 @@
 ![Signals & Digital Communication blocks](docs/diagram.png)
 Digital communications is pretty much the way we communicate between devices, either wirelessly or with physical cable, and when it comes to engeneering, it's always interesting to understand how this communication happens. I initially developed this code during the [Signal Processing and Communication](https://www.isel.pt/en/subjects/signal-processing-and-communication-leim) class that i took at ISEL, and been optimizing occasionally. 
 The theme of the class revolved around multimedia communications systems, and how this was divided in blocks, that when all put together, had to efficiently process data. In order to apply those concepts, i had to code an entire system, with Python, as a simulation of what would happen with real hardware.
-
+![](https://www.google-analytics.com/collect?v=1&t=event&tid=UA-100869248-2&cid=555&ec=github&ea=pageview&el=digital-modulation&ev=1)
 The modules that compose the system are:
 
 1. Sampling (not exactly covered on code)
